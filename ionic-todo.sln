@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ionic-todo(1)", "ionic-todo\", "{BCA01111-A8E6-4856-ACA4-0C351CFA5165}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55694"
+		Debug.AspNetCompiler.PhysicalPath = "ionic-todo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55694\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55694"
+		Release.AspNetCompiler.PhysicalPath = "ionic-todo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55694\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55694"
+		SlnRelativePath = "ionic-todo\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA01111-A8E6-4856-ACA4-0C351CFA5165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA01111-A8E6-4856-ACA4-0C351CFA5165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

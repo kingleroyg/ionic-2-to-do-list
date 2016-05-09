@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+# =========================
+# Ionic and visual studio stuff
+# =========================
+ionic-todo.sln
+.vs
